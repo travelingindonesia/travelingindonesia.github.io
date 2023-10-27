@@ -13,7 +13,7 @@ Welcome to the Tourism Indonesia repository. This project is dedicated to promot
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@tourismindonesia](https://www.github.com/travelingindonesia)
 
 
 ## Appendix
